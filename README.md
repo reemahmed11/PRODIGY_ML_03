@@ -9,7 +9,7 @@ This project focuses on implementing a Support Vector Machine (SVM) model to cla
 
 The dataset used for this project is the Cats and Dogs dataset from Kaggle. It contains 12,500 images of cats and 12,500 images of dogs, all in `.jpg` format.
 
-- **Dataset Link:** [Cats and Dogs Dataset](https://www.kaggle.com/c/dogs-vs-cats)](https://www.kaggle.com/c/dogs-vs-cats/data)
+- **Dataset Link:** https://www.kaggle.com/c/dogs-vs-cats/data 
 
 ## SVM and PCA Implementation
 
